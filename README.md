@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Soy Francisco Arce</h1>
 <h3 align="center">Un entusiasta y lleno de ganas de seguir creciendo! 💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pancheli" alt="pancheli" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **NodeJs y ExpressJs**
 
